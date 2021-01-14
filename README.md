@@ -1,6 +1,7 @@
-# SWE-422-Assignment
-Name:  Sabrina Nusrat Ayvi\n
-Reg:  2016831032\n
+# SWE-422-Assignmen
+
+Name:  Sabrina Nusrat Ayvi                    
+Reg:  2016831032                            
 Lab task for AI course:
 -----------------------------------------------------
 1) Build a simple Tic-Toc-Toe game using MinMax algorithm.
@@ -12,3 +13,4 @@ Lab task for AI course:
 4) Implement Task 2 and Task 3 using Neural Network technics. 
 
 5) Build a simple Text suggesting system using Naive Bayes. 
+
